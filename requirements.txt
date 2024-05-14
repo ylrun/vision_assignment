@@ -1,0 +1,9 @@
+numpy
+opencv-python
+Pillow
+gradio
+torch
+diffusers
+scikit-learn
+tensorflow
+matplotlib
