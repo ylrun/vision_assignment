@@ -42,4 +42,6 @@ The confusion matrix shows that the model performs particularly well in identify
 ## Code and Instructions to Run It
 The code can be found in Image_Inpaint_System.py.
 
+### Testing Examples
+To test the model, upload an image containing a face when prompted. The model will detect the face and perform inpainting. You can observe the results with the inpainted image and the original image with detected faces highlighted.
 
