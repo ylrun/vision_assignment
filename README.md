@@ -40,6 +40,6 @@ The confusion matrix shows that the model performs particularly well in identify
 
 
 ## Code and Instructions to Run It
-The code can be found in Image_Inpainting_System.py.
+The code can be found in Image_Inpaint_System.py.
 
 
